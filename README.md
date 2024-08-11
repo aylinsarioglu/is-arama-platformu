@@ -1,5 +1,3 @@
 #İş-Arama-Platformu
 
 
-#GİF
-
